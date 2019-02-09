@@ -1,0 +1,39 @@
+.App {
+    top:25%;
+    left:25%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    position:fixed;
+    font-family: Roboto;
+}
+
+.SocialList .fa:hover {
+    color:black;
+    opacity:1.0;
+  }
+  .SocialList .fa {
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    padding: 3px;
+  }
+
+  .SocialList .fa-linkedin {
+    color: black;
+    opacity: 0.2;
+  }
+
+  .SocialList .fa-github {
+    color: black;
+    opacity: 0.2;
+  }
+  
+  .Profile {
+
+  }
+
+  .Desc {
+
+  }
